@@ -1,0 +1,3 @@
+venv: virtul box of the project
+
+all projects same packages
